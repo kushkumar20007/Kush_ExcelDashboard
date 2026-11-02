@@ -30,6 +30,10 @@ An Excel workbook that imports, cleans, analyses and visualises a student lifest
 | 📈 `Charts` | Four charts built from `Pivots`. |
 | ⚙️ `Lookups` | Band tables, dropdown lists, risk thresholds (editable). |
 
+## 🎥 Video Demonstration
+
+[![Watch Video](https://img.shields.io/badge/🎥-Watch_Video-red?style=for-the-badge)](https://drive.google.com/file/d/1FvaRePRLKLKudx00dU6BR1QMPsuATuBr/view?usp=sharing)
+
 ## 🧹 Data cleaning notes
 
 - 🔀 **Shifted headers:** in the source, `Student_ID` held a 1–213 row counter and every following header sat one column too early. Corrected order: Row_No, Student_ID, Study, Extracurricular, Sleep, Social, Physical, GPA, Stress_Level. After re-aligning, the five hour columns total exactly 24 for every student.
